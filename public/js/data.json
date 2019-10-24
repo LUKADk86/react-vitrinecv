@@ -2,20 +2,20 @@
     "works" : [
         {
             "id" : 1,
-            "icon_name": "icon fa fa-chain fa-2x",
-            "title": "Mobile Ux",
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "PHP developer",
             "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
         },
         {
             "id" : 2,
             "icon_name": "icon fa fa-bolt fa-2x",
-            "title": "Mobile Ux",
+            "title": "JS full Stack",
             "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
         },
         {
             "id" : 3,
-            "icon_name": "icon fa fa-tachometer fa-2x",
-            "title": "Mobile Ux",
+            "icon_name": "icon fa fa-bolt fa-2x",
+            "title": "React Developer",
             "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloribus quos omnis voluptas ea ipsam! Voluptas."
         }
     ],
@@ -23,35 +23,35 @@
     "portfolio" : [
         {
             "id":1,
-            "image": "/images/portfolio-img1.jpg"
+            "image": "/images/Portfolio/portfolio-img1.jpg"
         },
         {
             "id":2,
-            "image": "/images/portfolio-img2.jpg"
+            "image": "/images/Portfolio/portfolio-img2.jpg"
         },
         {
             "id":3,
-            "image": "/images/portfolio-img3.jpg"
+            "image": "/images/Portfolio/portfolio-img3.jpg"
         },
         {
             "id":4,
-            "image": "/images/portfolio-img4.jpg"
+            "image": "/images/Portfolio/portfolio-img4.jpg"
         },
         {
             "id":5,
-            "image": "/images/portfolio-img5.jpg"
+            "image": "/images/Portfolio/portfolio-img5.jpg"
         },
         {
             "id":6,
-            "image": "/images/portfolio-img6.jpg"
+            "image": "/images/Portfolio/portfolio-img6.jpg"
         },
         {
             "id":7,
-            "image": "/images/portfolio-img4.jpg"
+            "image": "/images/Portfolio/portfolio-img4.jpg"
         },
         {
             "id":8,
-            "image": "/images/portfolio-img8.jpg"
+            "image": "images/Portfolio/portfolio-img8.jpg"
         }
     ] ,
     "social" : [
